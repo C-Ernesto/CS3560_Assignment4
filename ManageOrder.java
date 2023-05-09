@@ -143,7 +143,7 @@ public class ManageOrder {
 		//LocalDate date = LocalDate.parse("2022-02-16");
 		//createOrder(date,"Burger", 10.01, 2);
 		//System.out.println(searchOrder(3));
-		deleteOrder(3);
+		//deleteOrder(3);
 		
 	}
 }
