@@ -180,15 +180,4 @@ public class ManageCustomer {
 		
 		return result;
 	}
-	
-	public static void main(String[] args) {
-		//Customer cust;
-		//createCustomer("John", "88772182", "john@cpp.edu", "Rabbit st.", "Tokyo", "Japan", 91109);
-		//createCustomer("Mary", "987654321", "mary@cpp.edu", "Bear st.", "LA", "California", 14520);
-		//cust = searchCustomer("John");
-		//updateCustomer(cust, "Johnny", "88772182", "Johnny@cpp.edu", "Tiger st.", "Austin", "Texas", 14520);
-		//cust = searchCustomer("Johnny");
-		//deleteCustomer(cust);
-		//System.out.println(listNames());
-	}
 }
