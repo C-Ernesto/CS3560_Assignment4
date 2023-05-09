@@ -136,14 +136,4 @@ public class ManageOrder {
 			factory.close();
 		}
 	}
-	
-	public static void main(String[] args) {
-		//LocalDate date = LocalDate.parse("2022-01-02");
-		//createOrder(date,"Soda", 5.18, 2);
-		//LocalDate date = LocalDate.parse("2022-02-16");
-		//createOrder(date,"Burger", 10.01, 2);
-		//System.out.println(searchOrder(3));
-		//deleteOrder(3);
-		
-	}
 }
